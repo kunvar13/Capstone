@@ -1,2 +1,3 @@
-# Capstone
-Udacity Capstone Project
+# maven-project
+
+Simple Maven Project
