@@ -7,5 +7,5 @@
   tasks:
   - name: create a service
     command: kubectl apply -f kal-service.yml
-#kal-service.yml is already copied in the Kubernetes Cluster.
+#kal-service.yml is already copied on the Kubernetes Cluster.
 
